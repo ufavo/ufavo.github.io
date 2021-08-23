@@ -10,8 +10,8 @@ body{
 }
 
 .text {
-    margin-top: 18vh;
-    margin-bottom: 18vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
     width: 96%;
     margin-left: 2%;
     margin-right: 6%;
@@ -62,6 +62,10 @@ li
     margin-top: 4px;
     line-height: 19px;
     font: 11pt 'Arial';
+}
+
+ul, ol{
+    margin-top: 5px;
 }
 
 p {
